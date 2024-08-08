@@ -1,18 +1,37 @@
-## Getting Started
+# SISTEMA DE INGRESO ESTUDIANTIL
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este proyecto esta pensado para facilitar y optimizar el acceso de los estudiantes a la universidad  mediante un programa complementado con una aplicación móvil que permite comprobar que los estudiantes formen parte de la institución y sean miembros activos de la  EPN.
 
-## Folder Structure
+## Funciones:
 
-The workspace contains two folders by default, where:
+- Crear y Registrar Usuarios en el sistema.
+- Modificar usuarios.
+- Verificación de cóigos únicos.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Uso:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+1. Se iniciar una ventana Splash la cual mostrar el logotipo del programa.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+![Untitled](\ImagesMD\Untitled.png)
 
-## Dependency Management
+1. Se tiene una pestaña para realizar el registro de los estudiantes.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![Untitled](\ImagesMD\Untitled1.png)
+
+1. También permite comprobar que el código único es valido para la EPN.
+
+![Untitled](\ImagesMD\Untitled2.png)
+
+## Estructura del proyecto:
+
+El proyecto se encuentra estructurado de tal forma que se mantiene la arquitectura n-tier. 
+
+## Documentación
+
+En los siguientes links se podrá encontrar más información adicional.
+
+**Estándares de Codificación:**
+
+**Manual Técnico:**
+
+**Manual de Usuario:**
