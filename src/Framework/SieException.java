@@ -7,7 +7,7 @@ public class SieException extends Exception {
         e = error;
         System.out.println("[ERROR APP --> LOG] " + clase +"."+ metodo +" : "+ e );
     }
-
+//Obtencion de Error.
     @Override 
     public String getMessage(){
         return e;
